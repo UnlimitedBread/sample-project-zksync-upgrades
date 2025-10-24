@@ -1,4 +1,4 @@
-# Sample Hardhat Project For Testing `@matterlabs/hardhat-zksync`
+# Sample Hardhat Project For Testing `@matterlabs/hardhat-zksync-upgradable`
 
 ## Installing dependencies
 
